@@ -1,0 +1,6 @@
+{
+  "name": "Trích Xuất Hồ Sơ Cán Bộ Ra Excel",
+  "description": "Tự động trích xuất thông tin cán bộ, công chức, giáo viên (họ tên, ngày sinh, địa chỉ, chức vụ, thâm niên, bậc lương, hệ số lương, thành tích, danh hiệu thi đua) từ văn bản, tài liệu, hình ảnh và xuất ra file Excel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
